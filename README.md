@@ -38,6 +38,11 @@ in a transparent and reproducible way.
 - `src/` – reusable simulation and pricing code  
 - `reports/` – exported results (CSV files and plots)
 
+## How to run
+1. Clone the repo
+2. Install dependencies
+3. Run `notebook/01_build_core_engine.ipynb`
+
 ## Tools used
 
 - Python  
