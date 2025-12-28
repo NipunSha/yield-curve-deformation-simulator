@@ -1,0 +1,16 @@
+Scenario,KeyRate,DV01
+Base,2Y,0.0018792036965180614
+Base,5Y,0.04317544005280638
+Base,10Y,0.0
+Steepener (+25bp shape),2Y,0.0018809605798395523
+Steepener (+25bp shape),5Y,0.0432113031112209
+Steepener (+25bp shape),10Y,0.0
+Flattener (+25bp shape),2Y,0.0018774484661747692
+Flattener (+25bp shape),5Y,0.043139606794497354
+Flattener (+25bp shape),10Y,0.0
+"Twist (+25bp, pivot=5y)",2Y,0.0018800761359472062
+"Twist (+25bp, pivot=5y)",5Y,0.04317591774548646
+"Twist (+25bp, pivot=5y)",10Y,0.0
+"Butterfly (+25bp, belly=5y)",2Y,0.0018767059289785948
+"Butterfly (+25bp, belly=5y)",5Y,0.04303466083707974
+"Butterfly (+25bp, belly=5y)",10Y,0.0
