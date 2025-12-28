@@ -56,3 +56,44 @@ This project demonstrates how:
 
 ## Project structure
 
+yield-curve-deformation-simulator/
+├── notebook/ # Main analysis and demonstration notebook
+├── src/ycdeform/ # Core simulation, pricing, and risk engine
+├── reports/ # Generated outputs (CSV tables)
+├── data/ # Placeholder for future data (if required)
+├── README.md
+└── pyproject.toml
+
+---
+
+## How to run
+
+1. Clone the repository  
+2. Set up a Python environment (Anaconda or pip)
+3. Open and run the notebook:
+
+notebook/01_build_core_engine.ipynb
+
+Running the notebook will:
+- simulate yield curve scenarios
+- compute prices and risk measures
+- generate tables and plots
+- save outputs to the `reports/` folder
+
+---
+
+## Tools used
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+---
+
+## Intended audience
+
+This project is intended for:
+- economics and finance students  
+- macro and fixed-income researchers  
+- anyone interested in yield curve dynamics and bond risk analysis  
